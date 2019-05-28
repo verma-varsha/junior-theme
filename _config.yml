@@ -1,12 +1,12 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
-baseurl:     ""
-url:         "https://juniortheme.live/"
+title:       Varsha Verma
+email:       varsha.verma.eee15@itbhu.ac.in
+author:      Varsha Verma
+description: "Welcome to my sanctuary of thoughts."
+baseurl:     "/ramblings/"
+url:         "verma_varsha.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -40,7 +40,7 @@ show_workshops_section: true
 ## Disqus post comments             ##
 ## (leave blank to disable Disqus)  ##
 ######################################
-disqus_shortname: 'juniortheme-live'
+disqus_shortname: 
 
 ##########################################################################
 ## Facebook Comments plugin                                             ##
@@ -53,17 +53,17 @@ facebook_comments_number: 10
 ###################################
 ## Social icons                  ##
 ###################################
-github_username: thundergolfer
+github_username: verma-varsha
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username: verma_varsha97
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jonathonbelotti
+linkedin_username: varsha-verma-096749130
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id: 
+youtube_channel_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -138,3 +138,4 @@ exclude: [vendor]
 collections:
   portfolio:
     output: true
+

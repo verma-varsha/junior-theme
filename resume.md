@@ -4,103 +4,86 @@ title: Resumé
 tags: resume
 permalink: /resume/
 ---
-# Jonathon Belotti
+# Varsha Verma
 
 <div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
+<a href="mailto:varsha97eee@gmail.com">varsha97eee@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
+<i class="fa fa-github"></i> <a href="http://github.com/verma-varsha">verma-varsha</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/verma_varsha97">verma_varsha97</a>
 </div>
 
 
 ## Experience
 
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2019-`
+__Outreachy Intern, Openstack__ Working on adding RAID support for Redfish to Ironic and the sushy library and corresonding RAID storage resource emulation to sushy-tools.
 
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+`2018`
+__Software Engineering Intern, Microsoft IDC, Hyderabad__ Worked in a team of 5 for developing a web app for effective visualization of IoT data diagrammatically. Skills used: JavaScript, Typescript, REST APIs, Office Fabric UI, Asynchronous Programming, Azure IoT Hub, Sharepoint
 
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+`2017`
+__Software Engineering Intern, Microsoft IDC, Hyderabad__ Worked in a team of 4 for developing a tool for augmenting the existing web surfing experience in the Edge browser. Skills used: HTML, CSS, JavaScript, C#. REST APIs, Azure/Bing Search APIs
 
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
 
 ## Education
 
 `2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+__Integrated Dual Degree (B.Tech + M.Tech) in Electrical Engg, IIT(BHU) Varanasi__ 9.05/10
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
 
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+`2007-15`
+__City Montessori School__ 97.50%
 
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
-
-## University Leadership & Involvement
-
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
-
-`2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
-
-`2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
 
 ## Projects
 
-### Insults
+### Parallellization of Particle Swarm Optimization on Raspi Cluster
 
-Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
+Reduces the execution time of the meta-heuristic algorithm in arriving at the final result by parallellizing iterations using master-slave model via MPI on a cluster of Raspberry Pi's.
 
-### aimacode/aima-(java|python)
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
+### Flexible Job Shop Scheduling using Grey Wolf- Whale Hybrid Algorithm
 
-### sudkamp-langs-machines=(java|python)
+Implemented the grey wolf optimization algorithm and whale optimization algorithm in C++ and corresponding hybrid algorithm to solve the NP-hard Flexible Job Shop Scheduling Problem.
 
-Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.
+### Autonomous robot on Firebird V 
+
+Used OpenCV for image processing for colour and number detection and corresponding locomotion using the shortest path A* algorithm aiming at picking and dropping numbered boulders from/into cavities according to given specifications.
+
 
 __* Please see my Github profile for other projects and pull-request contributions.__
 
+
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+Code.Fun.Do Campus Hackathon Runner Ups organized by Microsoft (2016) and represented college at National level finishing all milestones.
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+Winners for Bizcraft, Case Study Event at Prastuti, IIT-BHU (2016)
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+E-yantra National Robotics Competition - qualified at Campus level and represented college at National level working on a full-fledged robotics kit.
 
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
 
 ## Technical
 
 * **Python**
-* **Ruby**
-* **Java**
-* Git
+* **C**
+* **C++**
+* **Git**
 * Web Applications & APIs
-* Data Engineering
-* Algorithm Design
-* Scripting
+* Distributed Systems
+* Parallel Computing
+* Windows App Development
 
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
+
+* <i class="fa fa-github"></i> <a href="http://github.com/verma-varsha">verma-varsha</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/verma_varsha97">verma_varsha97</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:varsha97eee@gmail.com">Email me!</a><br />
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
